@@ -1,5 +1,3 @@
-# projects_kevinz
-
 # Kevin Zehnder : Selected Projects
 
 ## 1. Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
@@ -40,3 +38,16 @@ features extracted from final pool layer of miniVGG conv net and a logisitic reg
 Model Metrics            |  Sample prediction #1
 :-------------------------:|:-------------------------:
 ![alt-text-1](doc/jpegs/metrics_width_580.jpg "model-metrics") | ![alt-text-2](doc/jpegs/metrics_width_400.jpg "title-2")
+
+
+
+# Citations
+Code in this repository is heavily adapted from course content in the *PyImageSearch Gurus* and *Deep Learning for Computer Vision with Python* by Dr. Adrian Rosebrock. Please visit https://www.pyimagesearch.com/pyimagesearch-gurus/ for additional information.
+
+@book{rosebrock_dl4cv,
+  author={Rosebrock, Adrian},
+  title={Deep Learning for Computer Vision with Python},
+  year={2019},
+  edition={3.0.0},
+  publisher={PyImageSearch.com}
+}

@@ -4,7 +4,7 @@
 
 ## 1. Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
 
- Sample prediction #1            |  Sample prediction #2
+ Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](doc/jpegs/resized_ten1.png "title-1") | ![alt-text-2](doc/jpegs/resized_ten2.png "title-2")
 

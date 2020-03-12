@@ -9,7 +9,7 @@
 ![alt-text-1](docs/jpegs/1_tensor/resized_ten1.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_ten2.png "title-2")
 
 
-## 2. President Detector ([Click here to view project code](2_president_detector/)
+## 2. President Detector ([Click here to view project code](2_president_detector/))
 
 <p align="center">
   <img src="docs/jpegs/2_president/candidates_facial_recognition.jpg">

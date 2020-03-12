@@ -1,5 +1,6 @@
 # Kevin Zehnder : Selected Projects
-## see citations below
+## Note: Please check out citations section at bottom of this page for proper attribution
+
 ## 1. Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
 
  Sample prediction #1      |  Sample prediction #2

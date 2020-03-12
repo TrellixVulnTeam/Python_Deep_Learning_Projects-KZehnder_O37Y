@@ -19,9 +19,9 @@
 
 features extracted from final pool layer of VGG conv net and a logisitic regression classifier was trained on top
 
-Training plot              |  Model Metrics
+Model Metrics              |  Rank-1/Rank-5 Accuracy
 :-------------------------:|:-------------------------:
-![alt-text-1](doc/jpegs/soda_training_plot.png "title-1") | ![alt-text-2](doc/jpegs/resized_soda_model_metrics.png "title-2")
+![alt-text-1](docs/jpegs/3_fruit_VGG/metrics_fruit_train_feat_extract_logistic.png "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/fruit_rank_5.png "title-2")
 
 model=miniVGG16 dropout=False augmentation=False
 

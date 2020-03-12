@@ -9,7 +9,7 @@
 
  Sample prediction #3      |  Tensorboard 
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/1_tensor/resized_individualImage.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/board_training.png "title-2")
+![alt-text-1](docs/jpegs/1_tensor/resized_individualImage.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_board_training.png "title-2")
 
 ## 2. President Detector ([Click here to view project code](2_president_detector/))
 

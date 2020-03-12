@@ -6,6 +6,9 @@
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/1_tensor/resized_ten1.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_ten2.png "title-2")
+
+Sample prediction #3       
+:-------------------------:|
 <p align="center">
   <img src="docs/jpegs/1_tensor/individualImage.png">
 </p>

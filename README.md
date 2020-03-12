@@ -15,7 +15,7 @@
   <img src="projects/presidential_candidate_facial_recognition/example_output.png">
 </p>
 
-## 3. Fruit VGG-16 classifier ([click here to view project code](projects/3_fruit_VGG_feature_extractor_logistic/))
+## 3. Fruit VGG-16 classifier ([click here to view project code](3_fruit_VGG_feature_extractor_logistic/))
 
 features extracted from final pool layer of VGG conv net and a logisitic regression classifier was trained on top
 

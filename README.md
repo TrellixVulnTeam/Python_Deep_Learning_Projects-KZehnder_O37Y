@@ -25,7 +25,15 @@ Training plot              |  Model Metrics
 
 model=miniVGG16 dropout=False augmentation=False
 
-## 4. Soda Bottles mini-VGG16 logistic classifier ([click here to view project code](projects/logistic_regression_conv_pool_features/))
+## 4. Soda Bottles Transfer Learning -- CNN mini-VGG16 feature extractor/logistic classifier ([click here to view project code](projects/logistic_regression_conv_pool_features/))
+
+features extracted from final pool layer of miniVGG conv net and a logisitic regression classifier was trained on top
+
+Model Metrics            |  Sample prediction #1
+:-------------------------:|:-------------------------:
+![alt-text-1](doc/jpegs/metrics_width_580.jpg "model-metrics") | ![alt-text-2](doc/jpegs/metrics_width_400.jpg "title-2")
+
+## 5. Boats Transfer Learning -- Fine-Tuning ([click here to view project code](5_transfer_learning_fine_tuning/))
 
 features extracted from final pool layer of miniVGG conv net and a logisitic regression classifier was trained on top
 

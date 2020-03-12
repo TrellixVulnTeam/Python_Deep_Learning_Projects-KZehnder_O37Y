@@ -19,13 +19,13 @@
 
 features extracted from final pool layer of VGG conv net and a logisitic regression classifier was trained on top
 
-Training plot            |  Model Metrics
+Training plot              |  Model Metrics
 :-------------------------:|:-------------------------:
 ![alt-text-1](doc/jpegs/soda_training_plot.png "title-1") | ![alt-text-2](doc/jpegs/resized_soda_model_metrics.png "title-2")
 
 model=miniVGG16 dropout=False augmentation=False
 
-## 4. soda bottle POOL vgg16 logistic ([click here to view project code](projects/logistic_regression_conv_pool_features/))
+## 4. Soda Bottles mini-VGG16 logistic classifier ([click here to view project code](projects/logistic_regression_conv_pool_features/))
 
 features extracted from final pool layer of miniVGG conv net and a logisitic regression classifier was trained on top
 

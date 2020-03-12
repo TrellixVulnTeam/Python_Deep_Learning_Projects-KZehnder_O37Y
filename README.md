@@ -12,7 +12,7 @@
 ## 2. President Detector ([Click here to view project code](2_president_detector/)
 
 <p align="center">
-  <img src="docs/jpegs/2_president/presidential_candidate_facial_recognition/candidates_facial_recognition.jpg">
+  <img src="docs/jpegs/2_president/candidates_facial_recognition.jpg">
 </p>
 
 ## 3. Fruit VGG-16 classifier ([click here to view project code](3_fruit_VGG_feature_extractor_logistic/))

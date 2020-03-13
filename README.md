@@ -33,7 +33,7 @@ Example #1            |  Example #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/1278.jpg "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/1672.jpg "title-2")
 
-Model Metrics ***with*** Augmentation            |  Training Plot ***with*** Augmentation
+Soda Model Metrics ***with*** Augmentation            |  Soda Training Plot ***with*** Augmentation
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/metrics_soda_augmented.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/vgg16net_augmentation_soda_training_plot.png "training-plot")
 

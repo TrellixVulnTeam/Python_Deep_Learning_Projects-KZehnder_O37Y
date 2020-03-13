@@ -33,6 +33,14 @@ Model Metrics            |  Sample prediction #1
 :-------------------------:|:-------------------------:
 ![alt-text-1](doc/jpegs/metrics_width_580.jpg "model-metrics") | ![alt-text-2](doc/jpegs/metrics_width_400.jpg "title-2")
 
+Model Metrics ***with*** Augmentation            |  Training Plot ***with*** Augmentation
+:-------------------------:|:-------------------------:
+![alt-text-1](doc/jpegs/metrics_width_580.jpg "model-metrics") | ![alt-text-2](doc/jpegs/metrics_width_400.jpg "title-2")
+
+Model Metrics ***without*** Augmentation            |  Training Plot ***without*** Augmentation
+:-------------------------:|:-------------------------:
+![alt-text-1](doc/jpegs/metrics_width_580.jpg "model-metrics") | ![alt-text-2](doc/jpegs/metrics_width_400.jpg "title-2")
+
 ## 5. Boats Transfer Learning -- Fine-Tuning ([click here to view project code](5_transfer_learning_fine_tuning/))
 
 Model Metrics            |  Sample prediction #1

@@ -23,7 +23,7 @@ Fruit Model Metrics              |  Fruit Rank-1/Rank-5 Accuracy
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/3_fruit_VGG/metrics_fruit_train_feat_extract_logistic.png "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/fruit_rank_5.png "title-2")
 
-Fruit Example #1                 |  Fruit Example #2
+Fruit Example #1 (class=Grape)                |  Fruit Example #2 (class=Apple)
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/3_fruit_VGG/0cf98cfa41c1ea17.jpg "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/0a8e8c51f6e6b723.jpg "title-2")
 

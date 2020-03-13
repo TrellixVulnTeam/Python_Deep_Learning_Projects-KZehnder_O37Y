@@ -37,7 +37,7 @@ Model Metrics ***with*** Augmentation            |  Training Plot ***with*** Aug
 :-------------------------:|:-------------------------:
 ![alt-text-1](doc/jpegs/metrics_width_580.jpg "model-metrics") | ![alt-text-2](doc/jpegs/metrics_width_400.jpg "title-2")
 
-Model Metrics ***without*** Augmentation            |  Training Plot ***without*** Augmentation
+Soda Bottle Model Metrics ***without*** Augmentation            |  Soda Bottle Training Plot ***without*** Augmentation
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/metrics_soda_vgg16net_no_augmentation_notebook_classification_report.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/soda_vgg16net_no_augmentation_training_plot.png "title-2")
 

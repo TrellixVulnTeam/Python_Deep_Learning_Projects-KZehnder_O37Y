@@ -29,7 +29,7 @@ Example #1                 |  Example #2
 
 ## 4. Soda Bottles Transfer Learning -- miniVGG Feature Extractor + Logistic ([click here to view project code](4_soda_bottles_minivggnet_classifier/))
 
-Model Metrics            |  Sample prediction #1
+Example #1            |  Example #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/1278.jpg "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/1672.jpg "title-2")
 

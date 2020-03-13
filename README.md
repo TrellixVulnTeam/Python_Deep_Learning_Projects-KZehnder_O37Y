@@ -29,11 +29,11 @@ Fruit Example #1                 |  Fruit Example #2
 
 ## 4. Soda Bottles Transfer Learning -- miniVGG16net([click here to view project code](4_sodas_miniVGGnet_augmentation/))
 
-Soda Example #1            |  oda Example #2
+Soda Bottle Example #1            |  Soda Bottle Example #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/1278.jpg "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/1672.jpg "title-2")
 
-Soda Model Metrics ***with*** Augmentation            |  Soda Training Plot ***with*** Augmentation
+Soda Bottle Model Metrics ***with*** Augmentation            |  Soda Bottle Training Plot ***with*** Augmentation
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/metrics_soda_augmented.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/vgg16net_augmentation_soda_training_plot.png "training-plot")
 

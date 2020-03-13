@@ -35,7 +35,7 @@ Example #1            |  Example #2
 
 Model Metrics ***with*** Augmentation            |  Training Plot ***with*** Augmentation
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/4_soda_miniVGG/vgg16net_augmentation_soda_training_plot.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/metrics_soda_augmented.png.jpg "title-2")
+![alt-text-1](docs/jpegs/4_soda_miniVGG/vgg16net_augmentation_soda_training_plot.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/metrics_soda_augmented.png "title-2")
 
 Soda Bottle Model Metrics ***without*** Augmentation            |  Soda Bottle Training Plot ***without*** Augmentation
 :-------------------------:|:-------------------------:

@@ -27,7 +27,7 @@ Example #1                 |  Example #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/3_fruit_VGG/0cf98cfa41c1ea17.jpg "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/0a8e8c51f6e6b723.jpg "title-2")
 
-## 4. Soda Bottles Transfer Learning -- miniVGGnet augmented/non-augmented ([click here to view project code](4_sodas_miniVGGnet_augmentation/))
+## 4. Soda Bottles Transfer Learning -- miniVGG16net([click here to view project code](4_sodas_miniVGGnet_augmentation/))
 
 Example #1            |  Example #2
 :-------------------------:|:-------------------------:

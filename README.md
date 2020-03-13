@@ -19,17 +19,17 @@
 
 ## 3. Fruit VGG-16 classifier ([click here to view project code](3_fruit_VGG_feature_extractor_logistic/))
 
-Model Metrics              |  Rank-1/Rank-5 Accuracy
+Fruit Model Metrics              |  Fruit Rank-1/Rank-5 Accuracy
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/3_fruit_VGG/metrics_fruit_train_feat_extract_logistic.png "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/fruit_rank_5.png "title-2")
 
-Example #1                 |  Example #2
+Fruit Example #1                 |  Fruit Example #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/3_fruit_VGG/0cf98cfa41c1ea17.jpg "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/0a8e8c51f6e6b723.jpg "title-2")
 
 ## 4. Soda Bottles Transfer Learning -- miniVGG16net([click here to view project code](4_sodas_miniVGGnet_augmentation/))
 
-Example #1            |  Example #2
+Soda Example #1            |  oda Example #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/1278.jpg "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/1672.jpg "title-2")
 

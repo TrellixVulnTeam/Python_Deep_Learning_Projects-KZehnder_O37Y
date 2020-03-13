@@ -31,7 +31,7 @@ Example #1                 |  Example #2
 
 Model Metrics            |  Sample prediction #1
 :-------------------------:|:-------------------------:
-![alt-text-1](doc/jpegs/metrics_width_580.jpg "model-metrics") | ![alt-text-2](doc/jpegs/metrics_width_400.jpg "title-2")
+![alt-text-1](docs/jpegs/4_soda_miniVGG/1278.jpg.jpg "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/1672.jpg "title-2")
 
 Model Metrics ***with*** Augmentation            |  Training Plot ***with*** Augmentation
 :-------------------------:|:-------------------------:

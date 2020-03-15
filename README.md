@@ -41,11 +41,11 @@ Soda Bottle Model Metrics ***without*** Augmentation            |  Soda Bottle T
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/metrics_soda_vgg16net_no_augmentation_notebook_classification_report.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/soda_vgg16net_no_augmentation_training_plot.png "title-2")
 
-## 5. Boats Transfer Learning -- Fine-Tuning ([click here to view project code](5_transfer_learning_fine_tuning/))
+## 5. Boats Transfer Learning -- ResNet50 ([click here to view project code](5_Boats_ResNet50_Transfer Learning/))
 
 Model Metrics            |  Sample prediction #1
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/metrics_width_580.jpg "model-metrics") | ![alt-text-2](doc/jpegs/metrics_width_400.jpg "title-2")
+![alt-text-1](docs/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "model-metrics") | ![alt-text-2](doc/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "title-2")
 
 
 

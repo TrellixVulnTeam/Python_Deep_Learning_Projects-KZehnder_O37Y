@@ -1,7 +1,7 @@
 # Kevin Zehnder : Selected Projects
 ***Note: Please see citations section at the bottom of this page***
 
-## ***Urgent:*** Seeking a position as a software engineer in the Deep Learning/Computer Vision field. 
+## ***Urgent:*** Seeking a position as a software engineer in the Deep Learning/Computer Vision field (Python). 
 
 ## Please contact me at kjzehnder3@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
 

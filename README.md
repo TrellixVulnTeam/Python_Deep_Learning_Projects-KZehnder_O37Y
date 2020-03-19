@@ -3,7 +3,18 @@
 
 ## ***Urgent:*** Seeking a position as a software engineer in the Deep Learning/Computer Vision field. 
 
-## Please contact me at kjzehnder@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
+## Please contact me at kjzehnder3@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
+
+## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](7_SANITIZER/))
+
+ Sample prediction #1      |  Sample prediction #2
+:-------------------------:|:-------------------------:
+![alt-text-1](docs/jpegs/7_sanitizer/usage2.png "title-1") | ![alt-text-2](docs/jpegs/7_sanitizer/usage1.png "title-2")
+
+ Sample prediction #3      |  Sample prediction #4 
+:-------------------------:|:-------------------------:
+![alt-text-1](docs/jpegs/7_sanitizer/usage3.png "title-1") | ![alt-text-2](docs/jpegs/7_sanitizer/usage4.png "title-2")
+
 
 ## 1. Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
 
@@ -50,7 +61,6 @@ Soda Bottle Model Metrics ***without*** Augmentation            |  Soda Bottle T
 Model Metrics            |  Sample prediction #1
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "model-metrics") | ![alt-text-2](doc/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "title-2")
-
 
 
 # Citations

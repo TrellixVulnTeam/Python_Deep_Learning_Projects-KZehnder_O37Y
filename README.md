@@ -22,7 +22,9 @@ Use this EXCELLENT tutorial series if you want to learn how to build your own cu
 
 ## 1. Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
 
- Sample prediction #1      |  Sample prediction #2
+Use this EXCELLENT tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
+
+Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/1_tensor/resized_ten1.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_ten2.png "title-2")
 

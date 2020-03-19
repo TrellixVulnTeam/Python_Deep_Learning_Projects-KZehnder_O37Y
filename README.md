@@ -3,7 +3,7 @@
 
 ## ***Urgent:*** Seeking a position as a software engineer in the Deep Learning/Computer Vision field. 
 
-## Please contact me at kjzehnder@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
+## Please contact me at kjzehnder3@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
 
 ## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](7_SANITIZER/))
 

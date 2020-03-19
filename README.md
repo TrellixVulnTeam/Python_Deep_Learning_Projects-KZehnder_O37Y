@@ -7,7 +7,7 @@
 
 ## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](7_SANITIZER/))
 
-***Note: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](SANITIZER/images))*** 
+***Note: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](7_SANITIZER/images))*** 
 
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:

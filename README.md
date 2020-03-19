@@ -9,6 +9,8 @@
 
 ***Note: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](7_SANITIZER/images))*** 
 
+Use this EXCELLENT tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
+
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/7_sanitizer/usage2.png "title-1") | ![alt-text-2](docs/jpegs/7_sanitizer/usage1.png "title-2")

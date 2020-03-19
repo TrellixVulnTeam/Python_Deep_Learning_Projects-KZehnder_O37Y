@@ -1,6 +1,10 @@
 # Kevin Zehnder : Selected Projects
 ***Note: Please see citations section at the bottom of this page***
 
+## ***Urgent:*** Seeking a position as a software engineer in the Deep Learning/Computer Vision field. 
+
+## Please contact me at kjzehnder@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
+
 ## 1. Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
 
  Sample prediction #1      |  Sample prediction #2

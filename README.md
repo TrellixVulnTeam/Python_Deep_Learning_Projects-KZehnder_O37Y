@@ -51,6 +51,16 @@ Model Metrics            |  Sample prediction #1
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "model-metrics") | ![alt-text-2](doc/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "title-2")
 
+## 7. Hand Sanitizer Clorox Wipes Detector ([click to view project code](7_SANITIZER/))
+
+ Sample prediction #1      |  Sample prediction #2
+:-------------------------:|:-------------------------:
+![alt-text-1](docs/jpegs/7_sanitizer/usage2.png "title-1") | ![alt-text-2](docs/jpegs/7_sanitizer/usage1.png "title-2")
+
+ Sample prediction #3      |  Sample prediction #4 
+:-------------------------:|:-------------------------:
+![alt-text-1](docs/jpegs/7_sanitizer/usage3.png "title-1") | ![alt-text-2](docs/jpegs/7_sanitizer/usage4.png "title-2")
+
 
 
 # Citations

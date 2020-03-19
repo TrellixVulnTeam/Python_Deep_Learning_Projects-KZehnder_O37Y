@@ -5,7 +5,7 @@
 
 ## Please contact me at kjzehnder@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
 
-## 7. Tensorflow Custom Object API Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](7_SANITIZER/))
+## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](7_SANITIZER/))
 
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:

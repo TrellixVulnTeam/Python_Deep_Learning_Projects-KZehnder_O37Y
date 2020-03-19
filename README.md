@@ -21,7 +21,7 @@ Use this EXCELLENT tutorial series if you want to learn how to build your own cu
 
 If you want to view a standalone version of the Hand Sanitizer Clorox Wipes Detector I have created a seperate repository to do so here: https://github.com/righttrianglesrkewl3/Hand_Sanitizer_Clorox_Wipe_Detector
 
-## 1. Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
+## 1. Hockey Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
 
 Use this EXCELLENT tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
 

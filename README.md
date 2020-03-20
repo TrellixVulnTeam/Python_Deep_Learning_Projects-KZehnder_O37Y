@@ -7,11 +7,7 @@
 
 ## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](7_SANITIZER/))
 
-***Note: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](7_SANITIZER/images))*** 
-
-Use this EXCELLENT tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
-
-If you are interested in using code directly from this repository please keep in mind that certain files in the "models" folder are too large to upload onto github. Secondly, the Tensorflow Object Detection API only works for me when I use tensorflow==1.13.2 (pip install --upgrade tensorflow==1.13.2) and the models version that can be found here: https://github.com/tensorflow/models/archive/v1.13.0.zip 
+***Note***: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](7_SANITIZER/images))
 
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
@@ -20,6 +16,10 @@ If you are interested in using code directly from this repository please keep in
  Sample prediction #3      |  Sample prediction #4 
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/7_sanitizer/usage3.png "title-1") | ![alt-text-2](docs/jpegs/7_sanitizer/usage4.png "title-2")
+
+Use this EXCELLENT tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
+
+If you are interested in using code directly from this repository please keep in mind that certain files in the "models" folder are too large to upload onto github. Secondly, the Tensorflow Object Detection API only works for me when I use tensorflow==1.13.2 (pip install --upgrade tensorflow==1.13.2) and the models version that can be found here: https://github.com/tensorflow/models/archive/v1.13.0.zip 
 
 If you want to view a standalone version of the Hand Sanitizer Clorox Wipes Detector I have created a seperate repository to do so here: https://github.com/righttrianglesrkewl3/Hand_Sanitizer_Clorox_Wipe_Detector
 

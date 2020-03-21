@@ -1,6 +1,6 @@
 # USAGE
-# python extract_features.py --dataset ../datasets/kaggle_dogs_vs_cats/train \
-# 	--output ../datasets/kaggle_dogs_vs_cats/hdf5/features.hdf5
+# python extract_features.py --dataset ../datasets/boats/train \
+# 	--output ../datasets/boats/hdf5/features.hdf5
 
 # import the necessary packages
 from tensorflow.keras.applications import ResNet50

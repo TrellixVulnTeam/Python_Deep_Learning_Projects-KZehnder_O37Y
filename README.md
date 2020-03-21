@@ -67,9 +67,9 @@ Soda Bottle Model Metrics ***without*** Augmentation            |  Soda Bottle T
 
 ## 5. Boats Transfer Learning -- ResNet50 ([click here to view project code](5_boats_ResNet50/))
 
-Model Metrics            |  Sample prediction #1
+Model Metrics            |  
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "model-metrics") | ![alt-text-2](doc/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "title-2")
+![alt-text-1](docs/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "model-metrics") 
 
 
 # Citations

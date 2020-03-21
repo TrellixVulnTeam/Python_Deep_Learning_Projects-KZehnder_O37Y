@@ -69,7 +69,7 @@ Soda Bottle Model Metrics ***without*** Augmentation            |  Soda Bottle T
 
 Model Metrics            |  
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "model-metrics") 
+![alt-text-1](docs/jpegs/5_Boats_ResNet50_Transfer_Learning/metrics_boats_kaggle.png "model-metrics") |
 
 
 # Citations

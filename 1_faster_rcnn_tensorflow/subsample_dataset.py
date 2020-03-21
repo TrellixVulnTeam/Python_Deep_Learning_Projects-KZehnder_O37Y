@@ -1,5 +1,5 @@
 # USAGE
-# python sample_dataset.py --input ~/PyImageSearch/Datasets/caltech5 --output output/data --training-size 0.75
+# python3 sample_dataset.py --input ../datasets/boats/images --output output/data --training-size 0.75
 
 # import the necessary packages
 from imutils import paths

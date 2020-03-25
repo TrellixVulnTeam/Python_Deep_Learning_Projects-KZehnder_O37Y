@@ -35,13 +35,13 @@ Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/1_tensor/resized_individualImage.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_board_training.png "title-2")
 
-## 2. President Detector ([Click here to view project code](2_president_detector/))
+## 2. President Detector ([Click here to view project code](Presidential_Candidate_Detector/))
 
 <p align="center">
   <img src="docs/jpegs/2_president/candidates_facial_recognition.jpg">
 </p>
 
-## 3. Fruit VGG-16 classifier ([click here to view project code](3_fruit_VGG_feature_extractor_logistic/))
+## 3. Fruit VGG-16 classifier ([click here to view project code](Fruit_VGG_Feature_Extractor_Logistic_Classifier/))
 
 Fruit Model Metrics              |  Fruit Rank-1/Rank-5 Accuracy
 :-------------------------:|:-------------------------:

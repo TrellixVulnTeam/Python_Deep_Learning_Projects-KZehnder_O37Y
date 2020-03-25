@@ -7,7 +7,7 @@
 
 ## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](7_SANITIZER/))
 
-***Note***: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](7_SANITIZER/images))
+***Note***: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](Hand_Sanitizer_Detector/images))
 
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
@@ -23,7 +23,7 @@ If you are interested in using code directly from this repository please keep in
 
 If you want to view a standalone version of the Hand Sanitizer Clorox Wipes Detector I have created a seperate repository to do so here: https://github.com/righttrianglesrkewl3/Hand_Sanitizer_Clorox_Wipe_Detector
 
-## 1. Hockey Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](1_faster_rcnn_tensorflow/))
+## 1. Hockey Faster R-CNN Tensorflow Object Detection API Example ([click to view project code](Faster_R-CNN_Tensorflow_Object_Detector/))
 
 Use this ***EXCELLENT*** tutorial series if you want to learn how to build your own custom object detectors using Tensorflow Object Detection API: https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
 

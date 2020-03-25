@@ -5,7 +5,7 @@
 
 ## Please contact me at kjzehnder3@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
 
-## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](Faster_R-CNN_Tensorflow_Object_Detector/))
+## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](Hand_Sanitizer_Detector-CNN_Tensorflow_Object_Detector/))
 
 ***Note***: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](Hand_Sanitizer_Detector/images))
 
@@ -51,7 +51,7 @@ Fruit Example #1 (class=Grape)                |  Fruit Example #2 (class=Apple)
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/3_fruit_VGG/0cf98cfa41c1ea17.jpg "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/0a8e8c51f6e6b723.jpg "title-2")
 
-## 4. Soda Bottles Transfer Learning -- miniVGG16net([click here to view project code](4_sodas_miniVGGnet_augmentation/))
+## 4. Soda Bottles Transfer Learning -- miniVGG16net([click here to view project code](Sodas_miniVGGnet_Augmentation/))
 
 Soda Bottle Example #1 (class=P.Cherry)            |  Soda Bottle Example #2 (class=MD.Diet)
 :-------------------------:|:-------------------------:
@@ -65,7 +65,7 @@ Soda Bottle Model Metrics ***without*** Augmentation            |  Soda Bottle T
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/4_soda_miniVGG/metrics_soda_vgg16net_no_augmentation_notebook_classification_report.png "model-metrics") | ![alt-text-2](docs/jpegs/4_soda_miniVGG/soda_vgg16net_no_augmentation_training_plot.png "title-2")
 
-## 5. Boats Transfer Learning -- ResNet50 ([click here to view project code](5_boats_ResNet50/))
+## 5. Boats Transfer Learning -- ResNet50 ([click here to view project code](Boats_ResNet50/))
 
 Model Metrics              
 :-------------------------:|

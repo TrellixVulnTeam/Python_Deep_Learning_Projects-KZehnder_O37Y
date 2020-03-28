@@ -49,7 +49,7 @@ Fruit Model Metrics              |  Fruit Rank-1/Rank-5 Accuracy
 
 Fruit Example #1 (class=Grape)                |  Fruit Example #2 (class=Apple)
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/3_fruit_VGG/0cf98cfa41c1ea17.jpg "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/0a8e8c51f6e6b723.jpg "title-2")
+![alt-text-1](docs/jpegs/3_fruit_VGG/Screenshot from 2020-03-28 11-30-45.png "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/Screenshot from 2020-03-28 11-32-10.png "title-2")
 
 ## 4. Soda Bottles Transfer Learning -- miniVGG16net([click here to view project code](Sodas_miniVGGnet_Augmentation/))
 

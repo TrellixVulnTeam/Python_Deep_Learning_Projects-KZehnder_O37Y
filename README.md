@@ -47,9 +47,9 @@ Fruit Model Metrics              |  Fruit Rank-1/Rank-5 Accuracy
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/3_fruit_VGG/metrics_fruit_train_feat_extract_logistic.png "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/fruit_rank_5.png "title-2")
 
-Fruit Example #1 (class=Grape)                |  Fruit Example #2 (class=Apple)
+Fruit Example #1 (class=Banana)                |  Fruit Example #2 (class=Apple)
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/3_fruit_VGG/Screenshot from 2020-03-28 11-30-45.png "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/Screenshot from 2020-03-28 11-32-10.png "title-2")
+![alt-text-1](docs/jpegs/3_fruit_VGG/peg2.png "title-1") | ![alt-text-2](docs/jpegs/3_fruit_VGG/peg1.png "title-2")
 
 ## 4. Soda Bottles Transfer Learning -- miniVGG16net([click here to view project code](Sodas_miniVGGnet_Augmentation/))
 

@@ -9,6 +9,13 @@
 
 ***Note***: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](Hand_Sanitizer_Detector/images))
 
+
+![alt-text-1](docs/jpegs/dash_sp500/dash_sp500.gif "title-1") 
+
+## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](Hand_Sanitizer_Detector/))
+
+***Note***: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](Hand_Sanitizer_Detector/images))
+
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/7_sanitizer/usage2.png "title-1") | ![alt-text-2](docs/jpegs/7_sanitizer/usage1.png "title-2")

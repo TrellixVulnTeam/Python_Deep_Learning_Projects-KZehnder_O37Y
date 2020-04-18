@@ -5,10 +5,7 @@
 
 ## Please contact me at kjzehnder3@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
 
-## 7. Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
-
-***Note***: Images and annotation files are included in this repository if you want to use them and train your own model ([click to view images and XML annotation files](Hand_Sanitizer_Detector/images))
-
+## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 
 ![alt-text-1](docs/jpegs/dash_sp500/dash_sp500.gif "title-1") 
 

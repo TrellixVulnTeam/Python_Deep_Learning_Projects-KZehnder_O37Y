@@ -19,7 +19,7 @@ import io
 def get_clean_data(filename):
     clean_df = pd.read_csv(filename)
     clean_df['Date'] = pd.to_datetime(clean_df['Date'])
-    #del clean_df['Unnamed: 0']
+    del clean_df['Unnamed: 0']
     clean_df.index = clean_df['Date']
     del clean_df['Date']
 
@@ -64,7 +64,7 @@ def generate_table(selected_stock):
     dff.reset_index(inplace=True)
     #print(dff.head()) # debug
     dff = dff.round(2)
-    
+
     return dash_table.DataTable(
     data=dff.to_dict('records'),
     columns=[{'id': c, 'name': c} for c in dff.columns],

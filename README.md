@@ -1,5 +1,7 @@
+<p align="center">
 # Kevin Zehnder : Selected Projects
 ***Note: Please see citations section at the bottom of this page***
+</p>
 
 <p align="center">
   <img width="600" height="400" src="docs/jpegs/readme/job1_resized.jpg">

@@ -3,7 +3,9 @@
 
 ## ***Urgent:*** Seeking a position as a software engineer in the Deep Learning/Computer Vision field (Python). 
 
-## Please contact me at kjzehnder3@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
+![alt-text-1](docs/jpegs/readme/job1_resized.jpg "title-1") 
+
+# Please contact me at kjzehnder3@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
 
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 

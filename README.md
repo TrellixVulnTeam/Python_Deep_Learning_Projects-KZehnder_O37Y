@@ -1,4 +1,4 @@
-# Kevin Zehnder
+# Kevin Zehnder Project Home
 <p align="center">
   <img width="600" height="400" src="docs/jpegs/readme/job1_resized.jpg">
 </p>

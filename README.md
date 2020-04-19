@@ -1,7 +1,8 @@
 # Kevin Zehnder : Selected Projects
 ***Note: Please see citations section at the bottom of this page***
 
-![alt-text-1](docs/jpegs/readme/job1_resized.jpg "title-1") 
+![A cute kitten](docs/jpegs/readme/job1_resized.jpgstyle=centerme)
+
 
 # Urgent: Looking for a job!
 Please contact me at kjzehnder3@gmail.com for additional information if you are are hiring and feel that I could add value to your company. Thanks in advance.

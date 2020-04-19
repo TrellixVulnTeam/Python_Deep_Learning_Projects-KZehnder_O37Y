@@ -4,9 +4,10 @@
 <p align="center">
   <img width="600" height="400" src="docs/jpegs/readme/job1_resized.jpg">
 </p>
-
+<details>
+<summary>"Click to expand"</summary>
 # Urgent: Looking for a job!
-Please contact me at kjzehnder3@gmail.com for additional information if you are are hiring and feel that I could add value to your company. Thanks in advance.
+Please contact me at kjzehnder3@gmail.com for additional information if you are are hiring and feel that I could add value to your company. Thanks in advance.</details>
 
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">

@@ -6,10 +6,7 @@
 </p>
 
 <p align="center">
-Looking for a job! Please contact me at ***kjzehnder3@gmail.com*** for additional information if you are are hiring and feel that I could add value to your company. Thanks in advance.
-</p>
-
-<center>Looking for a job! Please contact me at ***kjzehnder3@gmail.com*** for additional information if you are are hiring and feel that I could add value to your company. Thanks in advance. </center>
+Looking for a job! Please contact me at ***kjzehnder3@gmail.com*** for additional information if you are are hiring and feel that I could add value to your company. Thanks in advance.</p>
 
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">

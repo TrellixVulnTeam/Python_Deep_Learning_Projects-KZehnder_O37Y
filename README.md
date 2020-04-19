@@ -1,6 +1,6 @@
 # Kevin Zehnder : Project Home
-<p>
-<img align="right" width="600" height="400" src="docs/jpegs/readme/job1_resized.jpg">
+<p align="center">
+  <img src="docs/jpegs/readme/job1_resized.jpg">
 </p>
 
 Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you are hiring and believe I could add value to your business!

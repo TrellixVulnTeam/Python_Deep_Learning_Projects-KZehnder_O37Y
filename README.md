@@ -5,6 +5,8 @@
 
 Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you are hiring and believe I could add value to your business!
 
+([click to view resume](docs/jpegs/readme/b'KEVIN_ZEHNDER_Machine_Learning_Engineer' (1).pdf))
+
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">
   <img src="docs/jpegs/dash_sp500/dash_sp500.gif">

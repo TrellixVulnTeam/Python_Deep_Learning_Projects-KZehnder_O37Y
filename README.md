@@ -5,16 +5,14 @@
   <img width="600" height="400" src="docs/jpegs/readme/job1_resized.jpg">
 </p>
 
-<p align="center">
-<details>
-<summary>"Click to expand"</summary>
-# Urgent: Looking for a job!
-Please contact me at kjzehnder3@gmail.com for additional information if you are are hiring and feel that I could add value to your company. Thanks in advance.</details></p>
+<p style="text-align: center">
+Looking for a job! Please contact me at ***kjzehnder3@gmail.com*** for additional information if you are are hiring and feel that I could add value to your company. Thanks in advance. </p>
 
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">
   <img src="docs/jpegs/dash_sp500/dash_sp500.gif">
 </p>
+<p style="text-align: center">def 456</p>
 
 ## 7. Faster R-CNN Hand Sanitizer Clorox Wipes Detector ([click to view project code](Hand_Sanitizer_Detector/))
 

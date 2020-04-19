@@ -3,8 +3,8 @@
   <img width="600" height="400" src="docs/jpegs/readme/job1_resized.jpg">
 </p>
 
-Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you are hiring and believe I could add value to your business! 
 # [click to view resume](docs/jpegs/readme/resume.png)
+Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you are hiring and believe I could add value to your business! 
 
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">

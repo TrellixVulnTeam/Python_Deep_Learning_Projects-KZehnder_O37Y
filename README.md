@@ -1,7 +1,7 @@
 # Kevin Zehnder : Selected Projects
 ***Note: Please see citations section at the bottom of this page***
 
-![A cute kitten](docs/jpegs/readme/job1_resized.jpgstyle=centerme)
+![A cute kitten](docs/jpegs/readme/job1_resized.jpg style=centerme)
 
 
 # Urgent: Looking for a job!

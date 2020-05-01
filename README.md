@@ -42,7 +42,7 @@ Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/1_tensor/resized_individualImage.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_board_training.png "title-2")
 
-## 2. President Detector ([Click here to view project code](Presidential_Candidate_Detector/))
+## 2. Facial Recognition ([Click here to view project code](Presidential_Candidate_Detector/))
 
 <p align="center">
   <img src="docs/jpegs/2_president/candidates_facial_recognition.jpg">

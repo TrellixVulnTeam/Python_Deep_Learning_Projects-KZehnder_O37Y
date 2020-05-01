@@ -5,7 +5,7 @@
 
 Looking for a ***job!*** Please contact me at ***kjzehnder3@gmail.com*** if you are hiring and believe I could add value to your business!
 
-#                             [click to view resume](docs/jpegs/readme/resume.png)
+#                             [click to view resume](docs/jpegs/readme/KEVIN_ZEHNDER_resume.pdf)
 
 ## Dash SP500 Stocks ([click to view project code](Dash_Plotly_SP500/))
 <p align="center">
